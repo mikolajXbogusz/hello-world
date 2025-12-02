@@ -1,1 +1,2 @@
 pierwszy plik
+cos tu zmieniam i sprawdzam commita
